@@ -1,0 +1,24 @@
+p{
+	color: #F48FB1;
+	width: 200px;
+	border: 2px solid black;
+}
+h2{ 
+	color: #F48FB1;
+	width: 100px;
+	border: 3px solid black;
+ }
+ table {
+ 	width: 62%;
+ 	border: 1px solid #CD5C5C
+ }
+  td  {
+      padding: 0.3em;
+     border: 1px solid #CD5C5C
+     input{
+     	width: 20%;
+     }
+ }
+ fieldset{
+ 	width: 58%
+ }
